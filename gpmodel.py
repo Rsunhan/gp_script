@@ -9,7 +9,7 @@ import math
 ######################################################################
 # Here are the functions associated with Hamming kernels
 ######################################################################
-
+# THIS IS THE CHANGE I MADE RIGHT HERE
 def hamming_kernel (seq1, seq2, var_p=1):
     """ Returns the number of shared amino acids between two sequences"""
     # (RS- Iterates through each sequence, comparing pairs of amino acids, one fromeach sequence. 
